@@ -11,10 +11,10 @@ The match continues until one of the players' health reaches zero. Player health
 ### Screenshots of Projects:
 
 #### The Starting Screen:
-![Starting_Screen](Starting_Screen.png)
+<img src="Starting_Screen.png" alt="Basic Calculator User Interface" width="300" />
 
 #### The Gameplay Screen: 
-![GamePlay_Screen](User_Gameplay.png)
+<img src="User_Gameplay.png" alt="Basic Calculator User Interface" width="300" />
 
 #### The Winner Screen: 
-![Winner_Screen](Winner_Screen.png)
+<img src="Winner_Screen.png" alt="Basic Calculator User Interface" width="300" />
