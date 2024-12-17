@@ -10,12 +10,11 @@ The match continues until one of the players' health reaches zero. Player health
 
 ### Screenshots of Projects:
 
-#### The Starting Screen Before Pressing Begin Game
+#### The Starting Screen:
 ![Starting_Screen](Starting_Screen.png)
-- The Starting Screen Before Pressing Begin Game
 
+#### The Gameplay Screen: 
 ![GamePlay_Screen](User_Gameplay.png)
-- The Game Screen portraying the two starships blasting shots at one another with the portals in the middle. 
 
+#### The Winner Screen: 
 ![Winner_Screen](Winner_Screen.png)
-- The Ending Screen Displaying the Winner of the battle. 
